@@ -1,0 +1,18 @@
+The package requirements for the given Python program are:
+
+- numpy
+- pandas
+- tensorflow
+- tensorflow.keras
+- tensorflow.keras.preprocessing.image
+- tensorflow.keras.applications.mobilenet_v2
+- tensorflow.keras.models
+- tensorflow.keras.layers
+- tensorflow.keras.optimizers
+- tensorflow.keras.losses
+- sklearn.model_selection
+- sklearn.preprocessing
+- requests
+- bs4
+- PIL
+- cv2
